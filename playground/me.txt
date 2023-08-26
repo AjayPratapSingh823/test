@@ -1,5 +1,0 @@
-{{#user}}
-Name: Ajay
-Skills: HTML, CSS, JS, React.js
-Email: singhajaysingh545@gmail.com
-{{/user}}
